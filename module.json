@@ -1,0 +1,30 @@
+{
+  "name": "mbed-hal-efm32lg",
+  "version": "0.1.0",
+  "description": "mbed low-level HAL implementation for Silicon Labs EFM32 Leopard Gecko Microcontrollers",
+  "keywords": [
+    "mbed",
+    "hal",
+    "efm32lg",
+    "efm32",
+    "silabs"
+  ],
+  "author": "Aksel Skauge Mellbye <aksel.mellbye@silabs.com>",
+  "repository": {
+    "url": "https://github.com/ARMmbed/mbed-hal-efm32lg.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/mbed-hal-efm32lg",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-efm32"
+  ],
+  "dependencies": {
+    "mbed-hal-silabs": "*"
+  }
+}
