@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-efm32lg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mbed low-level HAL implementation for Silicon Labs EFM32 Leopard Gecko Microcontrollers",
   "keywords": [
     "mbed",
